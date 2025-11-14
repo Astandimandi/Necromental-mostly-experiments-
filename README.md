@@ -6,7 +6,7 @@ Built in python with TKInter library, but the code got complex so I switched to 
 
 **IMPORTANT:**  
 I’m still setting up the repo and most builds might not launch clean, but the code is readable and functional (enough, at least you can see my angle). 
-I’m working through the documentation for Dearpy so new update soon?.
+I’m working through the documentation for Dearpy so new update soon?
 
 ## Features (for now)
 - Digging system with randomized resource drops, depending on your tools
@@ -19,7 +19,7 @@ I’m working through the documentation for Dearpy so new update soon?.
 - Raise skeletons
 - initial management and research
 - research table
-- Mgic system (the bare bones of it)
+- Magic system (the bare bones of it)
 
 #### Feedback
 I'm not accepting pull requests atm because I don't think it makes a lot of sense right now, but I'm more than open to feedback/comments/tips/whatever. 
